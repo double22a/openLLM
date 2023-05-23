@@ -12,7 +12,7 @@
 | BELLE-13B | 链家 |  | https://github.com/LianjiaTech/BELLE |  |
 | MOSS-16B | 复旦 |  | https://github.com/OpenLMLab/MOSS |  |
 | Vicuna-13B |  |  | https://github.com/lm-sys/FastChat | https://chat.lmsys.org/ |
-| Alpaca-13b |  |  | https://github.com/tatsu-lab/stanford_alpaca | https://alpaca-ai.ngrok.io/ |
+| Alpaca-13B |  |  | https://github.com/tatsu-lab/stanford_alpaca | https://alpaca-ai.ngrok.io/ |
 
 
 ## Multimodal LLM
@@ -33,6 +33,10 @@
 ## Benchmarking LLMs
 [中文通用大模型综合性基准SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE) \
 [Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings](https://lmsys.org/blog/2023-05-03-arena/)
+[Multimodality Chatbot Arena](http://vlarena.opengvlab.com/)
+
+## Github
+[Alpaca-CoT: An Instruction Fine-Tuning Platform with Instruction Data Collection and Unified Large Language Models Interface](https://github.com/PhoebusSi/Alpaca-CoT)
 
 ## Paper
 [1] [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198) \
