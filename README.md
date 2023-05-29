@@ -34,6 +34,7 @@
 [中文通用大模型综合性基准SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE) \
 [Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings](https://lmsys.org/blog/2023-05-03-arena/)
 [Multimodality Chatbot Arena](http://vlarena.opengvlab.com/)
+[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 ## Github
 [Alpaca-CoT: An Instruction Fine-Tuning Platform with Instruction Data Collection and Unified Large Language Models Interface](https://github.com/PhoebusSi/Alpaca-CoT)
